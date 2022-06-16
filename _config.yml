@@ -48,5 +48,3 @@ exclude:
 nav:
   - label: Projects
     url: /projects/
-  - label: About
-    url: /about/
