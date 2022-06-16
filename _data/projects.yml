@@ -2,3 +2,23 @@
   description: "I co-founded a local nonprofit thats focused on connecting students to the local Startup ecosystem."
   link: https://www.s2s-bonn.de
   category: nonprofit
+
+- name: Datapods
+  description: "Im contemplating building a startup in the Blockchain space, I'm currently trying to prove the concept a little."
+  link: https://www.datapods.app
+  category: startup
+
+- name: CSGO Esports Scraping
+  description: "This is a Project where I'm trying to scrape lots of data to make predictions about the Counter:Strike Esports Scene, currently working on this whenever I've got the Time."
+  link: https://github.com/JEndler/csgogamble
+  category: webscraping
+
+- name: Flask Shortlink
+  description: "A simple URL-Shortener Service built with Flask."
+  link: https://github.com/JEndler/flask-shortlink
+  category: flask
+
+- name: Hearthstone AI
+  description: "I tried building a hearthstone AI with a friend for a local science competition, it turned out as more of a proof of concept about what monte-carlo-tree-search is capable of."
+  link: https://github.com/JEndler/hearthstoneAI
+  category: machine-learning
