@@ -1,7 +1,7 @@
 {
-  "title": "Nicolas Brugneaux - Static Website",
-  "homepage": "https://nicolasbrugneaux.me",
-  "repository": "git@github.com:nicolasbrugneaux/nicolasbrugneaux.github.io.git",
+  "title": "Jakob Endler - Portfolio Website",
+  "homepage": "https://endler.tech",
+  "repository": "git@github.com:JEndler/endler.tech.git",
   "scripts": {
     "start": "npm run min",
     "min": "uglifyjs --compress --mangle --output assets/js/main.min.js --toplevel -- assets/js/main.js",

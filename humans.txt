@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Nicolas Brugneaux -- Developer -- @nbrugneaux
+     Jakob Endler -- Developer
 
 # TECHNOLOGY COLOPHON
 

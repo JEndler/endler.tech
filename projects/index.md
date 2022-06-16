@@ -11,43 +11,19 @@ tags:
 
 # Close-source Projects
 
-While I'm not at liberty to share the most of the projects I've done or work on in the scope of my previous jobs, I'm happy to describe some of them and describe them in more details privately via me via [hello@nicolasbrugneaux.me](mailto:hello@nicolasbrugneaux.me).
+While I'm not at liberty to share the most of the projects I've done or work on in the scope of my previous jobs, I'm happy to describe some of them and describe them in more details privately via me via [jakob@endler.tech](mailto:jakob@endler.tech).
 
 <ul class="list">
 <li class="list__item">
   <p class="list__primary-content">
-    <a href="https://docs.passbase.com/server/api#install-a-server-side-library" target="_blank">Passbase server-side SDKs</a>
+    <a href="https://drive.google.com/file/d/1dwwnV0e5TIMnji26SzE1Dm-8-61juipS/view?usp=sharing" target="_blank">Project Paper (in German)</a>
   </p>
   <span class="list__secondary-content">
-    I wrote the public API spec and well as implemented the server-side libraries to use it. The initial implementations were in Go, Node, Python, Java, Ruby, and PHP.
+    During my time at Deutsche Telekom AGs Network Service and Automation divison i was tasked with the experimental development of a anomaly detection system for our OpenStack environments.
+    Unfortunately this project is still used internally and thus a am not allowed to publish the code.
   </span>
 </li>
 
-<li class="list__item">
-  <p class="list__primary-content">
-    <a href="https://chrome.google.com/webstore/detail/datawallet-30-developer-e/caagmkmkbhffejhhedakamdemcekfbmf" target="_blank">Datawallet 3.0</a>
-  </p>
-  <span class="list__secondary-content">
-    One example publicly available is Datawallet's chrome extension has been a work of labour at Datawallet. Despite being abandonned, it is still a cool piece of technology. It's built with wasm, js, and Cosmos Blockchain.
-  </span>
-</li>
-<li class="list__item">
-  <p class="list__primary-content">
-    <a href="https://github.com/DataWallet/pls" target="_blank">Companion SDK</a>
-  </p>
-  <span class="list__secondary-content">
-    The chrome extension above was accompanied by this companion SDK to use it programmatically.
-</span>
-</li>
-<li class="list__item">
-  <p class="list__primary-content">
-    <a href="https://medium.com/datawallet-blog/datawallet-launches-alpha-version-on-ios-and-android-bf34543ab28f" target="_blank">Datawallet Mobile App</a>
-  </p>
-  <span class="list__secondary-content">
-    Build with RN, and native Java/Swift modules.
-</span>
-</li>
-</ul>
 
 # Open-source Projects
 

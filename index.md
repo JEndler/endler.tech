@@ -1,14 +1,19 @@
 ---
 layout: default
-title: Nicolas Brugneaux
+title: Jakob Endler
 tags:
-  - Nicolas Brugneaux
+  - Jakob Endler
   - blog
-  - css
-  - sass
+  - data engineer
 ---
 
-# Hello, I’m Nicolas Brugneaux.
+# Hello, I’m Jakob ✌️.
 
-A French engineer working at [Passbase](https://passbase.com) in Berlin.
+A data engineer working at [DHL](https://www.dpdhl.com/en.html) in Bonn.
 Feel free to [read more about me](/about/).
+
+🌱 I’m currently learning GCP & Data Streaming.
+
+📝 I sometimes write stuff on notes.endler.tech
+
+📫 How to reach me jakob@endler.tech

@@ -1,12 +1,13 @@
 # Site settings
-title: Nicolas Brugneaux, developer in Berlin
-email: nicolas.brugneaux@gmail.com
+title: Jakob Endler - Data Engineer
+email: jakob@endler.tech
 description: > # this means to ignore newlines until "baseurl:"
-  My name is Nicolas Brugneaux, I am a French developer based in Berlin.
+  Hi, I'm Jakob, a passionate Data Engineer based in Bonn.
+  This is my digital homebase :)
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://nicolasbrugneaux.me" # the base hostname & protocol for your site
-twitter_username: nbrugneaux
-github_username:  nicolasbrugneaux
+url: "https://endler.tech" # the base hostname & protocol for your site
+instagram_username: jakob_endler
+github_username:  JEndler
 
 # Markdown settings
 markdown: kramdown
@@ -45,7 +46,7 @@ exclude:
 
 # Navigation
 nav:
-  - label: Coding
+  - label: Projects
     url: /projects/
   - label: About
     url: /about/

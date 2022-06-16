@@ -1,4 +1,4 @@
-const $CACHE_STORE = "nicolasbrugneaux.me/cache";
+const $CACHE_STORE = "endler.tech/cache";
 const $FILES = [
   "/assets/js/main.min.js",
   "/assets/css/main.css",
