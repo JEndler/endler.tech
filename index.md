@@ -21,8 +21,11 @@ A data engineer working at [DHL](https://www.dpdhl.com/en.html).
 ## ⚡️ As of August 2022, I'm currently working on / exploring:
 
 👀 Getting a startup (https://datapods.app) off the ground
+
 🪙 Exploring Crypto/Web3
+
 🧠 Optimizing my brain & body to live better
+
 🧪 In the past, I've graduated from HTWK Leipzig, architected 5G Network Simulations at Deutsche Telekom AG, and built a local startup-focused nonprofit called [Science to Startup](https://s2s-bonn.de)
 
 ## About this site
