@@ -22,7 +22,6 @@ While I'm not at liberty to share the most of the projects I've done or work on 
     The whole deployment is setup via Terraform IaC and Kubernetes.
 
     - Technologies used: Google Cloud Platform, Python, ClickHouse, Kafka, Kubernetes, Terraform
-  </span>
 </li>
 
 <li class="list__item">
@@ -53,7 +52,7 @@ While I'm not at liberty to share the most of the projects I've done or work on 
 
 # Open-source Projects
 
-In my spare time i sometimes build some stuff, here's some of that :)
+<p>In my spare time i sometimes build some stuff, here's some of that :)</p>
 
 {% assign groups = site.data.projects|group_by:"category" %}
 {% assign groups = groups|sort:"name" %}
