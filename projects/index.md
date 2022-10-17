@@ -39,7 +39,7 @@ While I'm not at liberty to share the most of the projects I've done or work on 
 
 <li class="list__item">
   <p class="list__primary-content">
-    <a href="https://drive.google.com/file/d/1dwwnV0e5TIMnji26SzE1Dm-8-61juipS/view?usp=sharing" target="_blank">Bachelor's Thesis: Simulating 5G Networks</a>
+    <a href="https://drive.google.com/file/d/10fqMpZL6u5bgeLMV97SkvcApwzSrqvwS/view?usp=sharing" target="_blank">Bachelor's Thesis: Simulating 5G Networks</a>
   </p>
   <span class="list__secondary-content">
     I wrote my bachelor's thesis in cooperation with the network planning team at Deutsche Telekom AG.
