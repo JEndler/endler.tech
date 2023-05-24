@@ -8,8 +8,8 @@ tags:
 ---
 <div style="display: flex; align-items: center;">
   <h1>Hey, I'm Jakob 👋</h1>
-  <div style="width: 150px; height: 150px; border-radius: 50%; overflow: hidden; margin-left: auto;">
-    <img src="/assets/images/portrait.jpg" alt="Your Name" style="width: 100%; height: auto;">
+  <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden; margin-left: auto;">
+    <img src="/assets/images/portrait.jpg" alt="Your Name" style="width: 100%; height: auto; margin-top: -25px;">
   </div>
 </div>
 
