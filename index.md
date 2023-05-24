@@ -6,10 +6,11 @@ tags:
   - portfolio
   - data engineer
 ---
-# Hey, I’m Jakob 👋
-
-<div style="width: 150px; height: 150px; border-radius: 50%; overflow: hidden;">
-  <img src="/assets/images/portrait.jpg" alt="Portrait of Jakob" style="width: 100%; height: auto;">
+<div style="display: flex; align-items: center;">
+  <h1>Hey, I'm Jakob 👋</h1>
+  <div style="width: 150px; height: 150px; border-radius: 50%; overflow: hidden; margin-left: auto;">
+    <img src="/assets/images/portrait.jpg" alt="Your Name" style="width: 100%; height: auto;">
+  </div>
 </div>
 
 I'm a data engineer working at [DHL](https://www.dpdhl.com/en.html).
