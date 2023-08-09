@@ -17,9 +17,9 @@ While I'm not at liberty to share the most of the projects I've done or work on 
 
 <li class="list__item">
   <span class="list__secondary-content">
-    I'm currently working on a Project on Google Cloud Kubernetes Engine to setup automated Data Pipelining from an External Source, through Redpanda to ClickHouse for Analysis.
+    At DHL Data & Analytics i was working on a Project on Google Cloud Kubernetes Engine to setup automated Data Pipelining from an External Source, through Redpanda to ClickHouse for Analysis.
   </span>
-    The whole deployment is setup via Terraform IaC and Kubernetes.
+    The whole deployment was setup via Terraform IaC and Kubernetes.
 
     - Technologies used: Google Cloud Platform, Python, ClickHouse, Kafka, Kubernetes, Terraform
 </li>
