@@ -10,6 +10,8 @@ tags:
   <h1>Hey, I'm Jakob 👋</h1>
 </div>
 
+## Me in 10 seconds
+
 I'm a data engineer turned startup founder, currently working mostly on [Datapods](https://datapods.app), and a little on [Robowriter](https://robowriter.de).
 
 📍 I'm based in Bonn, Germany.
@@ -33,13 +35,12 @@ I'm a data engineer turned startup founder, currently working mostly on [Datapod
 
 🧠 Optimizing my brain & body to live better, read about this in my [Notes](https://notes.endler.tech/notes/Optimizing-my-Brain-and-Body/Optimizing-my-Brain-and-Body/)
 
-🧪 In the past, I've:
+## 🧪 In the past, I've:
  - graduated from HTWK Leipzig
  - architected 5G Network Simulations at Deutsche Telekom AG
  - worked on high-volume realtime data pipelines at DHL Data & Analytics
  - built a local startup-focused nonprofit called [Science to Startup](https://s2s-bonn.de)
 
 ## About this site
-
 This site is made with [Jekyll](http://jekyllrb.com) and hosted on [Github Pages](https://pages.github.com/).
 In the [JEndler/endler.tech](https://github.com/JEndler/endler.tech) repository.
