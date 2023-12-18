@@ -9,10 +9,9 @@ tags:
 <div style="display: flex; align-items: center;">
   <h1>Hey, I'm Jakob 👋</h1>
 </div>
-
 ## Me in 10 seconds
 
-I'm a data engineer turned startup founder, currently working mostly on [Datapods](https://datapods.app), and a little on [Robowriter](https://robowriter.de).
+I'm a data engineer turned startup founder, currently working on [Datapods](https://datapods.app), and on [Robowriter](https://robowriter.de).
 
 📍 I'm based in Bonn, Germany.
 
