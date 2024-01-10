@@ -9,6 +9,9 @@ tags:
 
 Hey, I'm Jakob 👋
 
+You've just stumbled upon my little corner of the internet.
+I'm trying to keep this up-to-date as a quick way to see what I'm up to.
+
 ## Me in 10 seconds
 
 I'm a data engineer turned startup founder, currently working on [Datapods](https://datapods.app), and on [Robowriter](https://robowriter.de).
