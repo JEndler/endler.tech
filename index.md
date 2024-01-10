@@ -6,31 +6,33 @@ tags:
   - portfolio
   - data engineer
 ---
-<div style="display: flex; align-items: center;">
-  <h1>Hey, I'm Jakob 👋</h1>
-</div>
+
+Hey, I'm Jakob 👋
+
 ## Me in 10 seconds
 
 I'm a data engineer turned startup founder, currently working on [Datapods](https://datapods.app), and on [Robowriter](https://robowriter.de).
 
 📍 I'm based in Bonn, Germany.
 
-🌱 I’m currently trying to grow into my role as Co-Founder.
+🌱 I’m currently trying to grow into my role as Founder.
 
-📝 I sometimes write stuff on notes.endler.tech
+📝 I sometimes write stuff on [https://notes.endler.tech]
 
-📫 Reach me -> jakob@endler.tech
+📫 Reach me -> <a href="mailto:jakob@endler.tech">jakob@endler.tech</a></p>
 
-## ⚡️ As of August 2023, I'm currently working on / exploring:
+If I'm not coding, you'll probably find me watching Counter-Strike, painting Warhammer 40k models, or taking a walk.
 
-👀 Getting my startup (https://datapods.app) off the ground
- -> We just won the [Telekom T-Challenge](https://www.linkedin.com/feed/update/urn:li:activity:7067097742057070592) and are just starting to build our MVP.
+## ⚡️ As of Q1 2024, I'm currently working on / exploring:
 
-🤖 Building a generative AI SaaS company called Robowriter.de
+👀 Getting my startups Datapods and Robowriter off the ground
+> Datapods just received ~270k€ in Funding from the EU, and are looking to launch in Q3 '24.
 
 📚 Exploring Crypto/Web3
 
-🏃🏼‍♂️ Training for a 70.3 Ironman
+🏃🏼‍♂️ Keeping myself fit, though there hasn't been much time for that lately
+
+📚 Currently reading Peopleware and Scaling People, both have been great so far :)
 
 🧠 Optimizing my brain & body to live better, read about this in my [Notes](https://notes.endler.tech/notes/Optimizing-my-Brain-and-Body/Optimizing-my-Brain-and-Body/)
 
